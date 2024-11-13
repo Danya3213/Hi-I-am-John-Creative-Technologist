@@ -1,0 +1,33 @@
+*
+{
+    font-family: 'Heebo';
+    color: #21243D;
+}
+a
+{
+    text-decoration: none;
+}
+.grey-text
+{
+    color: #8695A4;
+}
+button
+{
+    background-color: #FF6464;
+}
+button>h4
+{
+    color: #FFFFFF;
+}
+.aqua-background
+{
+    background-color: #EDF7FA;
+}
+.turquoise-text
+{
+    color: #00A8CC;
+}
+.white-background
+{
+    background-color: white;
+}
